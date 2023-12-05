@@ -1,0 +1,7 @@
+com\mycompany\soporteincidencia2\clases\Incidente.class
+com\mycompany\soporteincidencia2\clases\Tecnico.class
+com\mycompany\soporteincidencia2\clases\SoporteServicio.class
+com\mycompany\soporteincidencia2\conexion\ConexionDB.class
+com\mycompany\soporteincidencia2\clases\Cliente.class
+com\mycompany\soporteincidencia2\clases\Empleado.class
+com\mycompany\soporteincidencia2\conexion\GestorIncidencia.class
